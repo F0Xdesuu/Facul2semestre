@@ -1,0 +1,6 @@
+# Função que exibe uma saudação simples
+def saudacao():
+    print("Olá! Bem-vindo ao nosso programa.")
+
+# Chamando a função para exibir a saudação
+saudacao()
